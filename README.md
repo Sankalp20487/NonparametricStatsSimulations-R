@@ -1,4 +1,4 @@
-# NonparametricStatsSimulations
+# Nonparametric_Stats_Simulations
 
 ## Overview
 `NonparametricStatsSimulations` is a repository dedicated to the application of nonparametric statistical methods through real-world scenario simulations. Using R, this project tackles a variety of practical questions ranging from game attendance, lottery ticket sales, prison sentence lengths, to baseball game outcomes.
